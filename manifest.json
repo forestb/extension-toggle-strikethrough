@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Toggle Strikethrough Text",
+  "version": "1.0.0",
+  "description": "A Chrome extension that toggles strikethrough text visibility on a webpage when clicked.",
+  "permissions": ["scripting"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Toggle Strikethrough Text"
+  }
+}
