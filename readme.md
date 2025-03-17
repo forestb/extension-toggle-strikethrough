@@ -15,7 +15,7 @@ If you're in government, advocacy, or just want to better understand legislative
 - [Using the Extension](#using-the-extension)
 
 ## Demo
-![.\assets\demo.gif](.\assets\demo.gif)
+![./assets/demo.gif](./assets/demo.gif)
 
 ## Give it a try!
 For examples, after installing the plugin, visit any single .html version of a [2025 State House or Senate Bill](https://sdlegislature.gov/Session/Bills/70) and click the extension. 
